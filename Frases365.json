@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "texto": "Cada día es una nueva oportunidad para empezar.",
+    "autor": "Anónimo",
+    "fecha": "2026-01-01"
+  },
+  {
+    "id": 2,
+    "texto": "La constancia vence lo que la dicha no alcanza.",
+    "autor": "Proverbio",
+    "fecha": "2026-01-02"
+  }
+]
