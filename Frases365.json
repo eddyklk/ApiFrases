@@ -1,14 +1,33 @@
 [
-  {
-    "id": 1,
-    "texto": "Cada día es una nueva oportunidad para empezar.",
-    "autor": "Anónimo",
-    "fecha": "2026-01-01"
-  },
-  {
-    "id": 2,
-    "texto": "La constancia vence lo que la dicha no alcanza.",
-    "autor": "Proverbio",
-    "fecha": "2026-01-02"
-  }
+  { "id": 1, "texto": "Cada día es una nueva oportunidad para empezar.", "autor": "Anónimo", "fecha": "2026-01-01" },
+  { "id": 2, "texto": "La constancia vence lo que la dicha no alcanza.", "autor": "Proverbio", "fecha": "2026-01-02" },
+  { "id": 3, "texto": "Tu energía positiva determina la calidad de tu día.", "autor": "Anónimo", "fecha": "2026-01-03" },
+  { "id": 4, "texto": "El éxito es la suma de pequeños esfuerzos repetidos.", "autor": "Robert Collier", "fecha": "2026-01-04" },
+  { "id": 5, "texto": "Cree que puedes y ya estarás a medio camino.", "autor": "Theodore Roosevelt", "fecha": "2026-01-05" },
+  { "id": 6, "texto": "La disciplina es el puente entre metas y logros.", "autor": "Jim Rohn", "fecha": "2026-01-06" },
+  { "id": 7, "texto": "No cuentes los días, haz que los días cuenten.", "autor": "Muhammad Ali", "fecha": "2026-01-07" },
+  { "id": 8, "texto": "La mente que se abre a una idea jamás vuelve a su estado original.", "autor": "Albert Einstein", "fecha": "2026-01-08" },
+  { "id": 9, "texto": "Lo que hagas hoy puede mejorar todos tus mañanas.", "autor": "Ralph Marston", "fecha": "2026-01-09" },
+  { "id": 10, "texto": "El único modo de hacer un gran trabajo es amar lo que haces.", "autor": "Steve Jobs", "fecha": "2026-01-10" },
+  { "id": 11, "texto": "La felicidad no es algo hecho, viene de tus propias acciones.", "autor": "Dalai Lama", "fecha": "2026-01-11" },
+  { "id": 12, "texto": "Si puedes soñarlo, puedes hacerlo.", "autor": "Walt Disney", "fecha": "2026-01-12" },
+  { "id": 13, "texto": "El fracaso es solo la oportunidad de comenzar de nuevo de forma inteligente.", "autor": "Henry Ford", "fecha": "2026-01-13" },
+  { "id": 14, "texto": "La paciencia es amarga, pero su fruto es dulce.", "autor": "Jean-Jacques Rousseau", "fecha": "2026-01-14" },
+  { "id": 15, "texto": "No mires el reloj; haz lo que él hace: sigue adelante.", "autor": "Sam Levenson", "fecha": "2026-01-15" },
+  { "id": 16, "texto": "Todo lo que siempre has querido está al otro lado del miedo.", "autor": "George Addair", "fecha": "2026-01-16" },
+  { "id": 17, "texto": "La mejor forma de predecir el futuro es creándolo.", "autor": "Peter Drucker", "fecha": "2026-01-17" },
+  { "id": 18, "texto": "Los obstáculos son las cosas que ves cuando apartas los ojos de tu meta.", "autor": "Henry Ford", "fecha": "2026-01-18" },
+  { "id": 19, "texto": "Tus acciones de hoy definen quién serás mañana.", "autor": "Anónimo", "fecha": "2026-01-19" },
+  { "id": 20, "texto": "Incluso el camino más largo comienza con un solo paso.", "autor": "Lao Tse", "fecha": "2026-01-20" },
+  { "id": 21, "texto": "La motivación te pone en marcha, el hábito te mantiene.", "autor": "Jim Ryun", "fecha": "2026-01-21" },
+  { "id": 22, "texto": "No esperes el momento perfecto, toma el momento y hazlo perfecto.", "autor": "Anónimo", "fecha": "2026-01-22" },
+  { "id": 23, "texto": "El optimismo es la fe que conduce al logro.", "autor": "Helen Keller", "fecha": "2026-01-23" },
+  { "id": 24, "texto": "Cambia tus pensamientos y cambiarás tu mundo.", "autor": "Norman Vincent Peale", "fecha": "2026-01-24" },
+  { "id": 25, "texto": "La vida comienza donde termina tu zona de confort.", "autor": "Neale Donald Walsch", "fecha": "2026-01-25" },
+  { "id": 26, "texto": "No dejes que el ayer ocupe demasiado del hoy.", "autor": "Will Rogers", "fecha": "2026-01-26" },
+  { "id": 27, "texto": "La victoria es más dulce cuando has conocido la derrota.", "autor": "Malcolm Forbes", "fecha": "2026-01-27" },
+  { "id": 28, "texto": "Tú eres más fuerte de lo que crees.", "autor": "Anónimo", "fecha": "2026-01-28" },
+  { "id": 29, "texto": "Cualquier cosa que la mente pueda concebir y creer, puede lograrlo.", "autor": "Napoleon Hill", "fecha": "2026-01-29" },
+  { "id": 30, "texto": "El entusiasmo mueve el mundo.", "autor": "Arthur Balfour", "fecha": "2026-01-30" },
+  { "id": 31, "texto": "El mañana pertenece a quienes se preparan hoy.", "autor": "Malcolm X", "fecha": "2026-01-31" }
 ]
