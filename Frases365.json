@@ -1,5 +1,6 @@
 [
-  { "id": 1, "texto": "Cada día es una nueva oportunidad para empezar.", "autor": "Anónimo", "fecha": "2026-01-01" },
+  { "id": 1, "texto": "Cada día es una nueva oportunidad para empezar.", "autor": "Anónimo", "fecha": "2026-01-01",
+  "imagenUrl": "https://github.com/eddyklk/ApiFrases/blob/aafcbbc7c3fef74d3557ffb69ec76506ba50421a/Fondo.jpg"},
   { "id": 2, "texto": "La constancia vence lo que la dicha no alcanza.", "autor": "Proverbio", "fecha": "2026-01-02" },
   { "id": 3, "texto": "Tu energía positiva determina la calidad de tu día.", "autor": "Anónimo", "fecha": "2026-01-03" },
   { "id": 4, "texto": "El éxito es la suma de pequeños esfuerzos repetidos.", "autor": "Robert Collier", "fecha": "2026-01-04" },
@@ -30,4 +31,5 @@
   { "id": 29, "texto": "Cualquier cosa que la mente pueda concebir y creer, puede lograrlo.", "autor": "Napoleon Hill", "fecha": "2026-01-29" },
   { "id": 30, "texto": "El entusiasmo mueve el mundo.", "autor": "Arthur Balfour", "fecha": "2026-01-30" },
   { "id": 31, "texto": "El mañana pertenece a quienes se preparan hoy.", "autor": "Malcolm X", "fecha": "2026-01-31" }
+
 ]
