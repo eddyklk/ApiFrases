@@ -4,21 +4,21 @@
     "texto": "Cada día es una nueva oportunidad para empezar.",
     "autor": "Anónimo",
     "fecha": "2026-01-01",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo1.jpg"
   },
   {
     "id": 2,
     "texto": "La constancia vence lo que la dicha no alcanza.",
     "autor": "Proverbio",
     "fecha": "2026-01-02",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo2.jpg"
   },
   {
     "id": 3,
     "texto": "Tu energía positiva determina la calidad de tu día.",
     "autor": "Anónimo",
     "fecha": "2026-01-03",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo3.jpg"
   },
   {
     "id": 10,
@@ -32,27 +32,28 @@
     "texto": "La felicidad no es algo hecho, viene de tus propias acciones.",
     "autor": "Dalai Lama",
     "fecha": "2026-01-11",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo4.jpg"
   },
   {
     "id": 12,
     "texto": "Si puedes soñarlo, puedes hacerlo.",
     "autor": "Walt Disney",
     "fecha": "2026-01-12",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo5.jpg"
   },
   {
     "id": 13,
     "texto": "El fracaso es solo la oportunidad de comenzar de nuevo de forma inteligente.",
     "autor": "Henry Ford",
     "fecha": "2026-01-13",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo6.jpg"
   },
   {
     "id": 31,
     "texto": "El mañana pertenece a quienes se preparan hoy.",
     "autor": "Malcolm X",
     "fecha": "2026-01-31",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo7.jpg"
   }
 ]
+
