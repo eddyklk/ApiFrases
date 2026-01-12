@@ -1,30 +1,563 @@
 [
-  
- 
   {
-    "id": 12,
+    "id": 1,
     "texto": "Si puedes soñarlo, puedes hacerlo.",
     "autor": "Walt Disney",
     "fecha": "2026-01-12",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   },
   {
-    "id": 13,
+    "id": 2,
     "texto": "El fracaso es solo la oportunidad de comenzar de nuevo de forma inteligente.",
     "autor": "Henry Ford",
     "fecha": "2026-01-13",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   },
   {
-    "id": 31,
+    "id": 3,
+    "texto": "No cuentes los días, haz que los días cuenten.",
+    "autor": "Muhammad Ali",
+    "fecha": "2026-01-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 4,
+    "texto": "La mejor forma de predecir el futuro es creándolo.",
+    "autor": "Peter Drucker",
+    "fecha": "2026-01-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 5,
+    "texto": "Lo que no te mata, te hace más fuerte.",
+    "autor": "Friedrich Nietzsche",
+    "fecha": "2026-01-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 6,
+    "texto": "La disciplina es el puente entre metas y logros.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-01-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 7,
+    "texto": "La vida es un 10% lo que me pasa y 90% cómo reacciono a ello.",
+    "autor": "Charles Swindoll",
+    "fecha": "2026-01-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 8,
+    "texto": "El único modo de hacer un gran trabajo es amar lo que haces.",
+    "autor": "Steve Jobs",
+    "fecha": "2026-01-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 9,
+    "texto": "No busques los errores, busca un remedio.",
+    "autor": "Henry Ford",
+    "fecha": "2026-01-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 10,
+    "texto": "Tu tiempo es limitado, no lo desperdicies viviendo la vida de otro.",
+    "autor": "Steve Jobs",
+    "fecha": "2026-01-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 11,
+    "texto": "Cree que puedes y casi habrás llegado.",
+    "autor": "Theodore Roosevelt",
+    "fecha": "2026-01-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 12,
+    "texto": "La felicidad no es algo hecho. Viene de tus propias acciones.",
+    "autor": "Dalai Lama",
+    "fecha": "2026-01-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 13,
+    "texto": "Todo lo que siempre has querido está al otro lado del miedo.",
+    "autor": "George Addair",
+    "fecha": "2026-01-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 14,
+    "texto": "Cáete siete veces y levántate ocho.",
+    "autor": "Proverbio Japonés",
+    "fecha": "2026-01-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 15,
+    "texto": "No importa qué tan lento vayas mientras no te detengas.",
+    "autor": "Confucio",
+    "fecha": "2026-01-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 16,
+    "texto": "La creatividad requiere tener el valor de desprenderse de las certezas.",
+    "autor": "Erich Fromm",
+    "fecha": "2026-01-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 17,
+    "texto": "La motivación es lo que te pone en marcha. El hábito es lo que hace que sigas.",
+    "autor": "Jim Ryun",
+    "fecha": "2026-01-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 18,
+    "texto": "Tu actitud, no tu aptitud, determinará tu altitud.",
+    "autor": "Zig Ziglar",
+    "fecha": "2026-01-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 19,
+    "texto": "El éxito es ir de fracaso en fracaso sin perder el entusiasmo.",
+    "autor": "Winston Churchill",
+    "fecha": "2026-01-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 20,
     "texto": "El mañana pertenece a quienes se preparan hoy.",
     "autor": "Malcolm X",
     "fecha": "2026-01-31",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 21,
+    "texto": "No esperes. El momento nunca será el perfecto.",
+    "autor": "Napoleon Hill",
+    "fecha": "2026-02-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 22,
+    "texto": "La única discapacidad en la vida es una mala actitud.",
+    "autor": "Scott Hamilton",
+    "fecha": "2026-02-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  }
+  {
+    "id": 23,
+    "texto": "Haz de cada día tu obra maestra.",
+    "autor": "John Wooden",
+    "fecha": "2026-02-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 24,
+    "texto": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+    "autor": "Albert Schweitzer",
+    "fecha": "2026-02-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 25,
+    "texto": "Para ser irremplazable, uno siempre debe ser diferente.",
+    "autor": "Coco Chanel",
+    "fecha": "2026-02-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 26,
+    "texto": "No dejes que el ayer ocupe demasiado del hoy.",
+    "autor": "Will Rogers",
+    "fecha": "2026-02-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 27,
+    "texto": "Si no escalas la montaña jamás podrás disfrutar del paisaje.",
+    "autor": "Pablo Neruda",
+    "fecha": "2026-02-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 28,
+    "texto": "La esperanza es el sueño del hombre despierto.",
+    "autor": "Aristóteles",
+    "fecha": "2026-02-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 29,
+    "texto": "Un viaje de mil millas comienza con un primer paso.",
+    "autor": "Lao Tse",
+    "fecha": "2026-02-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 30,
+    "texto": "Lo que piensas, lo serás. Lo que sientas, lo atraerás.",
+    "autor": "Buda",
+    "fecha": "2026-02-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 31,
+    "texto": "Si quieres algo que nunca tuviste, debes hacer algo que nunca hiciste.",
+    "autor": "Thomas Jefferson",
+    "fecha": "2026-02-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 32,
+    "texto": "Tanto si piensas que puedes como si piensas que no puedes, estás en lo cierto.",
+    "autor": "Henry Ford",
+    "fecha": "2026-02-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 33,
+    "texto": "La paciencia es amarga, pero su fruto es dulce.",
+    "autor": "Jean-Jacques Rousseau",
+    "fecha": "2026-02-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 34,
+    "texto": "Amarse a uno mismo es el comienzo de un romance de por vida.",
+    "autor": "Oscar Wilde",
+    "fecha": "2026-02-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 35,
+    "texto": "Donde hay amor hay vida.",
+    "autor": "Mahatma Gandhi",
+    "fecha": "2026-02-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 36,
+    "texto": "El entusiasmo mueve el mundo.",
+    "autor": "Arthur Balfour",
+    "fecha": "2026-02-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 37,
+    "texto": "La vida es corta, vívela intensamente.",
+    "autor": "Anónimo",
+    "fecha": "2026-02-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 38,
+    "texto": "Prefiero morir de pasión que de aburrimiento.",
+    "autor": "Vincent van Gogh",
+    "fecha": "2026-02-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 39,
+    "texto": "A veces la última llave es la que abre la puerta.",
+    "autor": "Anónimo",
+    "fecha": "2026-02-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 40,
+    "texto": "Si el plan no funciona, cambia el plan, pero no cambies la meta.",
+    "autor": "Anónimo",
+    "fecha": "2026-02-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 41,
+    "texto": "La confianza en uno mismo es el primer secreto del éxito.",
+    "autor": "Ralph Waldo Emerson",
+    "fecha": "2026-02-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 42,
+    "texto": "La pregunta no es quién me va a dejar; es quién me va a detener.",
+    "autor": "Ayn Rand",
+    "fecha": "2026-02-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 43,
+    "texto": "El hombre que no tiene imaginación, no tiene alas.",
+    "autor": "Muhammad Ali",
+    "fecha": "2026-02-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 44,
+    "texto": "Siembra un pensamiento y cosecharás una acción.",
+    "autor": "Samuel Smiles",
+    "fecha": "2026-02-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 45,
+    "texto": "Incluso la noche más oscura terminará y el sol saldrá.",
+    "autor": "Victor Hugo",
+    "fecha": "2026-02-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 46,
+    "texto": "No somos producto de nuestras circunstancias, somos producto de nuestras decisiones.",
+    "autor": "Stephen Covey",
+    "fecha": "2026-02-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 47,
+    "texto": "El secreto de salir adelante es comenzar.",
+    "autor": "Mark Twain",
+    "fecha": "2026-02-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 48,
+    "texto": "La mejor manera de empezar es dejar de hablar y empezar a hacer.",
+    "autor": "Walt Disney",
+    "fecha": "2026-02-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 49,
+    "texto": "Tus sueños no tienen fecha de caducidad. Respira hondo y sigue.",
+    "autor": "Anónimo",
+    "fecha": "2026-03-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 50,
+    "texto": "Mira hacia atrás y sonríe ante los peligros pasados.",
+    "autor": "Walter Scott",
+    "fecha": "2026-03-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  }
+  
+  {
+    "id": 51,
+    "texto": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+    "autor": "John Lennon",
+    "fecha": "2026-03-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 52,
+    "texto": "No dejes que el ruido de las opiniones ajenas silencie tu propia voz interior.",
+    "autor": "Steve Jobs",
+    "fecha": "2026-03-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 53,
+    "texto": "La lógica te llevará desde A hasta B. La imaginación te llevará a todas partes.",
+    "autor": "Albert Einstein",
+    "fecha": "2026-03-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 54,
+    "texto": "El éxito consiste en obtener lo que se desea. La felicidad en disfrutar lo que se obtiene.",
+    "autor": "Ralph Waldo Emerson",
+    "fecha": "2026-03-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 55,
+    "texto": "Aprende de ayer, vive para hoy, espera para mañana.",
+    "autor": "Albert Einstein",
+    "fecha": "2026-03-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 56,
+    "texto": "Sé el cambio que quieres ver en el mundo.",
+    "autor": "Mahatma Gandhi",
+    "fecha": "2026-03-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 57,
+    "texto": "Todo lo que puedes imaginar es real.",
+    "autor": "Pablo Picasso",
+    "fecha": "2026-03-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 58,
+    "texto": "No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas.",
+    "autor": "Robert Louis Stevenson",
+    "fecha": "2026-03-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 59,
+    "texto": "Lo que hagas hoy puede mejorar todos tus mañanas.",
+    "autor": "Ralph Marston",
+    "fecha": "2026-03-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 60,
+    "texto": "La felicidad no es una meta; es un subproducto de una vida bien vivida.",
+    "autor": "Eleanor Roosevelt",
+    "fecha": "2026-03-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 61,
+    "texto": "Tu talento determina lo que puedes hacer. Tu motivación determina cuánto estás dispuesto a hacer.",
+    "autor": "Lou Holtz",
+    "fecha": "2026-03-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 62,
+    "texto": "Para ganar a lo grande, a veces hay que correr grandes riesgos.",
+    "autor": "Bill Gates",
+    "fecha": "2026-03-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 63,
+    "texto": "Las dificultades a menudo preparan a personas comunes para un destino extraordinario.",
+    "autor": "C.S. Lewis",
+    "fecha": "2026-03-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 64,
+    "texto": "Si no te gusta el camino que estás caminando, empieza a pavimentar otro.",
+    "autor": "Dolly Parton",
+    "fecha": "2026-03-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 65,
+    "texto": "El poder de la imaginación nos hace infinitos.",
+    "autor": "John Muir",
+    "fecha": "2026-03-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 66,
+    "texto": "La mayor gloria no es no caer nunca, sino levantarse cada vez que caemos.",
+    "autor": "Nelson Mandela",
+    "fecha": "2026-03-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 67,
+    "texto": "No se trata de si te derriban, se trata de si te levantas.",
+    "autor": "Vince Lombardi",
+    "fecha": "2026-03-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 68,
+    "texto": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+    "autor": "Eleanor Roosevelt",
+    "fecha": "2026-03-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 69,
+    "texto": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+    "autor": "Robert Collier",
+    "fecha": "2026-03-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 70,
+    "texto": "Convierte tus heridas en sabiduría.",
+    "autor": "Oprah Winfrey",
+    "fecha": "2026-03-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 71,
+    "texto": "No dejes que lo que no puedes hacer interfiera con lo que puedes hacer.",
+    "autor": "John Wooden",
+    "fecha": "2026-03-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 72,
+    "texto": "El secreto de tu futuro está escondido en tu rutina diaria.",
+    "autor": "Mike Murdock",
+    "fecha": "2026-03-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 73,
+    "texto": "Un objetivo sin un plan es solo un deseo.",
+    "autor": "Antoine de Saint-Exupéry",
+    "fecha": "2026-03-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 74,
+    "texto": "La excelencia no es un acto, sino un hábito.",
+    "autor": "Aristóteles",
+    "fecha": "2026-03-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 75,
+    "texto": "Si quieres volar, tienes que renunciar a las cosas que te pesan.",
+    "autor": "Toni Morrison",
+    "fecha": "2026-03-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 76,
+    "texto": "El fracaso es el condimento que da al éxito su sabor.",
+    "autor": "Truman Capote",
+    "fecha": "2026-03-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 77,
+    "texto": "El valor es la resistencia al miedo, el dominio del miedo, no la ausencia de miedo.",
+    "autor": "Mark Twain",
+    "fecha": "2026-03-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 78,
+    "texto": "No esperes a que las circunstancias sean ideales. Actúa y hazlas ideales.",
+    "autor": "Napoleon Hill",
+    "fecha": "2026-03-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 79,
+    "texto": "La persistencia es el camino del éxito.",
+    "autor": "Charles Chaplin",
+    "fecha": "2026-03-31",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 80,
+    "texto": "Cada día es una nueva oportunidad para ser mejor que ayer.",
+    "autor": "Anónimo",
+    "fecha": "2026-04-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   }
 ]
-
-
-
-
-
