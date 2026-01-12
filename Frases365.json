@@ -1477,7 +1477,6 @@
     "fecha": "2026-08-10",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   }
-[
   {
     "id": 212,
     "texto": "La disciplina es el ingrediente que convierte los sueños en realidad.",
@@ -2129,7 +2128,6 @@
     "fecha": "2026-11-11",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   }
-[
   {
     "id": 305,
     "texto": "La paciencia no es la espera pasiva, es la aceptación activa del proceso.",
@@ -2480,7 +2478,6 @@
     "fecha": "2026-12-31",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   }
-[
   {
     "id": 355,
     "texto": "Año nuevo, vida nueva. Hoy es la primera página en blanco de un libro de 365 hojas.",
@@ -2559,5 +2556,6 @@
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   }
 ]
+
 
 
