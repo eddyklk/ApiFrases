@@ -1,39 +1,6 @@
 [
-  {
-    "id": 1,
-    "texto": "Cada día es una nueva oportunidad para empezar.",
-    "autor": "Anónimo",
-    "fecha": "2026-01-01",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo1.jpg"
-  },
-  {
-    "id": 2,
-    "texto": "La constancia vence lo que la dicha no alcanza.",
-    "autor": "Proverbio",
-    "fecha": "2026-01-02",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo2.jpg"
-  },
-  {
-    "id": 3,
-    "texto": "Tu energía positiva determina la calidad de tu día.",
-    "autor": "Anónimo",
-    "fecha": "2026-01-03",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo3.jpg"
-  },
-  {
-    "id": 10,
-    "texto": "El único modo de hacer un gran trabajo es amar lo que haces.",
-    "autor": "Steve Jobs",
-    "fecha": "2026-01-10",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  },
-  {
-    "id": 11,
-    "texto": "La felicidad no es algo hecho, viene de tus propias acciones.",
-    "autor": "Dalai Lama",
-    "fecha": "2026-01-11",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  },
+  
+ 
   {
     "id": 12,
     "texto": "Si puedes soñarlo, puedes hacerlo.",
@@ -46,16 +13,17 @@
     "texto": "El fracaso es solo la oportunidad de comenzar de nuevo de forma inteligente.",
     "autor": "Henry Ford",
     "fecha": "2026-01-13",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo6.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   },
   {
     "id": 31,
     "texto": "El mañana pertenece a quienes se preparan hoy.",
     "autor": "Malcolm X",
     "fecha": "2026-01-31",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo7.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   }
 ]
+
 
 
 
