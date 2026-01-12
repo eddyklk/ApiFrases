@@ -32,7 +32,7 @@
     "texto": "La felicidad no es algo hecho, viene de tus propias acciones.",
     "autor": "Dalai Lama",
     "fecha": "2026-01-11",
-    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo25.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   },
   {
     "id": 12,
@@ -56,5 +56,6 @@
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo7.jpg"
   }
 ]
+
 
 
