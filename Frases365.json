@@ -152,7 +152,7 @@
     "autor": "Scott Hamilton",
     "fecha": "2026-02-02",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 23,
     "texto": "Haz de cada día tu obra maestra.",
@@ -348,8 +348,7 @@
     "autor": "Walter Scott",
     "fecha": "2026-03-02",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
-  
+  },  
   {
     "id": 51,
     "texto": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
@@ -559,7 +558,7 @@
     "autor": "Anónimo",
     "fecha": "2026-04-01",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 81,
     "texto": "La disciplina es hacer lo que hay que hacer, incluso cuando no quieres hacerlo.",
@@ -776,7 +775,7 @@
     "autor": "Joel Brown",
     "fecha": "2026-05-02",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 112,
     "texto": "No te detengas hasta que te sientas orgulloso.",
@@ -1007,7 +1006,7 @@
     "autor": "Anónimo",
     "fecha": "2026-06-04",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 145,
     "texto": "La mayor aventura que puedes tener es vivir la vida de tus sueños.",
@@ -1259,7 +1258,7 @@
     "autor": "Anónimo",
     "fecha": "2026-07-10",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 181,
     "texto": "La persistencia es lo que hace que lo imposible sea posible.",
@@ -1476,7 +1475,7 @@
     "autor": "Anónimo",
     "fecha": "2026-08-10",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 212,
     "texto": "La disciplina es el ingrediente que convierte los sueños en realidad.",
@@ -1693,7 +1692,7 @@
     "autor": "Anónimo",
     "fecha": "2026-09-10",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 243,
     "texto": "La mayor parte de nuestra felicidad o miseria depende de nuestra disposición y no de nuestras circunstancias.",
@@ -1910,7 +1909,7 @@
     "autor": "Anónimo",
     "fecha": "2026-10-11",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 274,
     "texto": "La verdadera medida del éxito es cuántas veces te has levantado después de caer.",
@@ -2127,7 +2126,7 @@
     "autor": "Anónimo",
     "fecha": "2026-11-11",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 305,
     "texto": "La paciencia no es la espera pasiva, es la aceptación activa del proceso.",
@@ -2477,7 +2476,7 @@
     "autor": "Anónimo",
     "fecha": "2026-12-31",
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
-  }
+  },
   {
     "id": 355,
     "texto": "Año nuevo, vida nueva. Hoy es la primera página en blanco de un libro de 365 hojas.",
@@ -2556,6 +2555,7 @@
     "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiFrases/main/Fondo.jpg"
   }
 ]
+
 
 
 
